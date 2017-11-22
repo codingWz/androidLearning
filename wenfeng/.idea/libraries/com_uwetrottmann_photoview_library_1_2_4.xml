@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.uwetrottmann.photoview:library-1.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/0f53a5bd48a109f3b9d3c552ce641ad1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/0f53a5bd48a109f3b9d3c552ce641ad1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.photoview/library/1.2.4/a91de013b110c67a916fa6084d07c50830c85950/library-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
